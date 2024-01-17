@@ -17,10 +17,18 @@ Here are some ideas to get you started:
 
 ### Hello!
 
+#### How to reach me!
+
+| Service              |   Username        |
+| :------              | :----------:      |
+| Discord              | @iotaspencer      |
+| YouTube (Gaming)     | [@iotaplays](https://youtube.com/@iotaplays)        |
+| YouTube (Vlogs Etc.) | [@IotaSpencer](https://youtube.com/@IotaSpencer)      |
+| Email                | me@iotaspencer.me |
+
 #### Currently Working on:
 
-* age_bot_py
-* ticket_man
+* My website, currently being made using Flask(python) and having a backup using Jekyll(ruby)
 
 #### Pronouns
 
