@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 #### Currently Working on:
 
-* My website, currently being made using Flask(python) and having a backup using Jekyll(ruby)
+* My website, and a couple other projects to help my site be maintained.
 
 #### Pronouns
 
