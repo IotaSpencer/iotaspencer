@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 
 #### How to reach me!
 
-| Service              |   Username        |
-| :------              | :----------:      |
-| Discord              | @iotaspencer      |
-| YouTube (Gaming)     | [@iotaplays](https://youtube.com/@iotaplays)        |
-| YouTube (Vlogs Etc.) | [@IotaSpencer](https://youtube.com/@IotaSpencer)      |
-| Email                | me@iotaspencer.me |
+| Service              |   Username                                  |
+| :------              | :----------:                                |
+| Discord, YT, T.tv    | See the links on the left                   |
+| Bluesky              | https://bsky.social/profile/@iotaspencer.me |
+
 
 #### Currently Working on:
 
