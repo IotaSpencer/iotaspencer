@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 | Service              |   Username                                  |
 | :------              | :----------:                                |
 | Discord, YT, T.tv    | See the links on the left                   |
-| Bluesky              | https://bsky.social/profile/@iotaspencer.me |
+| Bluesky              | [@iotaspencer.me](https://bsky.app/profile/iotaspencer.me) |
 
 
 #### Currently Working on:
