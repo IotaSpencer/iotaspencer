@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 
 | Service              |   Username                                  |
 | :------              | :----------:                                |
-| Discord, YT, T.tv    | See the links on the left                   |
+| Twitter, YT, LinkedIn, T.tv    | See the links on the left                   |
 | Bluesky              | [@iotaspencer.me](https://bsky.app/profile/iotaspencer.me) |
+| Wonderful.dev        | [@iotaspencer](https://wonderful.dev/IotaSpencer)
 
 
 #### Currently Working on:
 
-* My website, and a couple other projects to help my site be maintained.
+* My website (iotaspencer.me)
+* 3 External Projects
 
 #### Pronouns
 
