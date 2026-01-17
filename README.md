@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello!
-
 #### How to reach me!
 
 | Service              |   Username                                  |
@@ -29,6 +27,7 @@ Here are some ideas to get you started:
 #### Currently Working on:
 
 * My website (iotaspencer.me)
+* DiscordBaB [https://github.com/DiscordBaB/](https://github.com/DiscordBaB)
 * 3 External Projects
 
 #### Pronouns
